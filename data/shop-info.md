@@ -8,6 +8,7 @@
 - Shop phone: 905-417-8439
 - Hours: every day, Monday to Sunday, 11 AM to 10 PM.
 - Instagram: @executivestyleshs
+- - Website: executivestyleshs.netlify.app (say it as "executive styles h s dot netlify dot app"). The website has prices, barbers and the Booksy booking button. If they want it, offer to text them the Booksy link instead, since that's quicker.
 - Areas served: Maple, Richmond Hill, Woodbridge, Concord.
 - Ten chairs. Each barber keeps their own book, so clients pick their barber.
 - Amenities: wheelchair accessible, Wi-Fi, kid friendly, pets welcome.
@@ -32,4 +33,5 @@
 - Through the Booksy confirmation or the Booksy app. Give as much notice as possible so the slot can be filled.
 
 ## Payment
-- Credit cards only, paid in the studio.
+- Cash only. There's an ATM inside the shop, so no need to stop at a bank first.
+- No credit or debit.
