@@ -1,0 +1,17 @@
+{
+  "name": "barbershop-receptionist",
+  "version": "1.0.0",
+  "description": "AI phone receptionist for Executive Styles Hair Studio (Twilio ConversationRelay + Claude)",
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "test-call": "node --env-file-if-exists=.env test-mode.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
