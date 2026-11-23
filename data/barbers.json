@@ -1,13 +1,14 @@
 {
   "shopBooksyLink": "https://booksy.com/en-ca/4124_executive-styles-hair-studio_barbershop_979936_maple",
   "barbers": [
-    { "name": "Faheem",  "aliases": [],           "tier": null, "booksyLink": "" },
-    { "name": "Randy",   "aliases": [],           "tier": null, "booksyLink": "" },
-    { "name": "Jaggu",   "aliases": [],           "tier": null, "booksyLink": "" },
-    { "name": "Nazeef",  "aliases": [],           "tier": null, "booksyLink": "" },
-    { "name": "Zeeshan", "aliases": [],           "tier": null, "booksyLink": "" },
-    { "name": "Simran",  "aliases": [],           "tier": null, "booksyLink": "" },
-    { "name": "Ammy",    "aliases": ["Amrinder"], "tier": null, "booksyLink": "" },
-    { "name": "Nahar",   "aliases": [],           "tier": null, "booksyLink": "" }
+    { "name": "Nazeef",   "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Randy",    "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Faheem",   "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Nahar",    "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Jaggu",    "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Simran",   "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Amrinder", "aliases": ["Ammy"], "tier": null, "booksyLink": "" },
+    { "name": "Zeeshan",  "aliases": [],       "tier": null, "booksyLink": "" },
+    { "name": "Joshua",   "aliases": ["Josh"], "tier": null, "booksyLink": "" }
   ]
 }
